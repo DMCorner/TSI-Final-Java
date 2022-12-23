@@ -1,0 +1,14 @@
+UIElements\Game\ActorRepository.class
+UIElements\Game\ApplicationConfig.class
+UIElements\Game\AwsSecrets.class
+UIElements\Game\Film_Actor.class
+UIElements\Game\Film_ActorId.class
+UIElements\Game\FilmRepository.class
+UIElements\Game\Film_CategoryIntf.class
+UIElements\Game\CategoryRepository.class
+UIElements\Game\Film_ActorRepository.class
+UIElements\Game\GameApplication.class
+UIElements\Game\Actor.class
+UIElements\Game\Film_ActorIntf.class
+UIElements\Game\Film.class
+UIElements\Game\Category.class

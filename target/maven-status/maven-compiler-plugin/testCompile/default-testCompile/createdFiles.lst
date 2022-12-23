@@ -1,0 +1,4 @@
+UIElements\Game\CucumberContextConfig.class
+UIElements\Game\GameApplicationTests.class
+UIElements\Game\RunCucumberTest.class
+UIElements\Game\ShowSingleActorStepDef.class
