@@ -5,11 +5,12 @@ target/maven-status
 target/site
 target/surefire-reports
 target/jacoco.exec
+src/main/resources/application.yml
+target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-**src/main/resources/
-**src/target/classes/
+
 
 ### STS ###
 .apt_generated
