@@ -1,4 +1,4 @@
-Feature: get a specific actor.
+Feature: get a specific actor
 
 
   Scenario Outline: getting a specific actor from the database.
